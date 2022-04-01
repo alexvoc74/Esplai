@@ -1,0 +1,33 @@
+.titulo{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.container_1{
+    text-align: center;
+    background-color: burlywood;
+    padding: 50px;
+    height: 100px;
+    width: 250px;
+    margin-left: 500px;
+    font-size: 25px;
+}
+
+.hover{
+    cursor: pointer;
+    background-color: red;
+}
+
+input:in-range {
+    border: 2px solid green;
+}
+
+input:out-of-range {
+    border: 2px solid red;
+}
+
+  input{
+      width: 180px;
+      text-align: left;
+  }
