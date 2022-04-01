@@ -68,4 +68,39 @@ Ejercicio 11
 [href *="127"]{
     background-color: black;
 }
+
+
+Ejercicio 12
+
+[href ^="http"] {
+    background-color: green;
+}
+
+
+Ejercicio 13
+a,p,h1{
+    background-color: blueviolet;
+}
+
+Ejercicio 14
+main p{
+    background-color: red;
+}
+
+Ejercicio 15
+
+h1 + *{
+    background-color: red;
+}
+
+Ejercicio 16
+{
+    background-color: red;
+}
+
+/*
+Ejercicio 17
+main > * {
+    background-color: red;
+}
 */
