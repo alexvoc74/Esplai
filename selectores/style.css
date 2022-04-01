@@ -6,4 +6,66 @@ Ejercicio 1
 }
 
 --------------------------
+
+Ejercicio 2
+
+p{
+    background-color: green;
+}
+
+Ejercicio 3
+
+#title-1{
+    background-color: aqua;
+}
+
+Ejercicio 4
+
+.bg-yellow{
+    background-color: orange;
+}
+
+Ejercicio 5
+
+*[id] {
+    background-color: magenta;
+}
+
+Ejercicio 6
+
+[id ="title-1"] {
+ background-color: red;
+}
+
+Ejercicio 7
+
+[href ="https://www.yahoo.com"] {
+    background-color: deeppink;
+}
+
+Ejercicio 8
+
+[class |="title"]{
+    background-color: red;
+}
+
+
+Ejercicio 9
+
+[href $=".com"]{
+    background-color: green;
+}
+
+
+Ejercicio 10
+
+[class |="title-2"]{
+    background-color: yellow;
+}
+
+Ejercicio 11
+
+[href *="127"]{
+    background-color: black;
+}
 */
