@@ -94,7 +94,7 @@ h1 + *{
 }
 
 Ejercicio 16
-{
+h1 ~ *{
     background-color: red;
 }
 

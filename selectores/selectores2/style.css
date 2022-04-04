@@ -1,0 +1,12 @@
+h1{
+    color: lime;
+}
+.important{
+    color:orange;
+}
+h2.important{
+    color: blue;
+}
+#main_photo{
+    width: 200px;
+}
