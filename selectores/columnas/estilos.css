@@ -1,0 +1,21 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color: green;
+}
+p{
+    text-align: justify;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-color: red;
+    column-rule-width: 2px;
+}
+h1>span:hover{
+    color: blue;
+}
+p>span::selection{
+    color: red;
+    background-color: black;
+}
