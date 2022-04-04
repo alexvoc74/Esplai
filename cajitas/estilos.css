@@ -1,0 +1,29 @@
+.cajita{
+    text-align: justify;
+    width: 420px;
+    height: 250px;
+    border-top: solid green;
+    border-top-style: dotted;
+    border-left: double;
+    border-left-width: thick;
+    margin-top: 150px;
+    margin-left: 450px;
+    align-items: center;
+    border-top-left-radius: 20px;
+    border-left-width: 15px;
+    border-bottom: solid red;
+    border-bottom-width: 5px;
+    border-right: solid blue;
+    border-right-style: dashed;
+    border-right-width: 10px;
+}
+h1{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
