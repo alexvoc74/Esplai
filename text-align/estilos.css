@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+.primero{
+    text-align: left;
+    font-size: 28px;
+    padding-left: 20px;
+    width: 430px;
+}
+.segundo{
+    text-align: center;
+    margin-top: 40px;
+}
+.tercero{
+    text-align: right;
+    margin-top: 40px;
+    padding-right: 20px;
+    width: 433px;
+}
+.cajita{
+    margin-left: 460px;
+    margin-top: 200px;
+}
+input{
+    height: 40px;
+    width: 450px;
+    font-size: 28px;
+}
