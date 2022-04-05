@@ -1,4 +1,29 @@
-h1{
+h1>span{
     text-align: center;
-    background-color: blue;
+    background-color: skyblue;
+    margin-left: 500px;
+}
+tr{
+    text-align: center;
+}
+table{
+    margin-left: 360px;
+    width: 500px;
+    border: solid black 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(250, 217, 179);
+}
+.IVA{
+    text-align: center;
+    background-color: skyblue;
+    border-left: 0px;
+    font-weight: bold;
+}
+td{
+    border-bottom: solid black 2px ;
+    border-left: solid black 1px;
+}
+h1{
+    margin-bottom: 0px;
 }
