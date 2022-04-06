@@ -1,0 +1,114 @@
+.cubito{
+    background-color: skyblue;
+    position: absolute;
+    border: solid black 4px;
+    height: 400px;
+    width: 400px;
+    margin-left: 475px;
+    margin-top: 130px;
+
+}
+.cat{
+    width: 400px;
+    height: 400px;
+}
+.reloj1{
+    width: 46px;
+    height: 46px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.reloj2{
+    width: 46px;
+    height: 46px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.reloj3{
+    width: 46px;
+    height: 46px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.reloj4{
+    width: 46px;
+    height: 46px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.circ1{
+    background-color: rebeccapurple;
+    position: absolute;
+    left: -31px;
+    top: -31px;
+    border: solid black 4px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.circ2{
+    background-color: rebeccapurple;
+    position: absolute;
+    right: -31px;
+    top: -31px;
+    border: solid black 4px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.circ3{
+    background-color: rebeccapurple;
+    position: absolute;
+    left: -31px;
+    bottom: -31px;
+    border: solid black 4px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.circ4{
+    background-color: rebeccapurple;
+    position: absolute;
+    right: -31px;
+    bottom: -31px;
+    border: solid black 4px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
