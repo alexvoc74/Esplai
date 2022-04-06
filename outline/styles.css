@@ -20,7 +20,6 @@ div>img{
     margin-left: 500px;
     margin-top: 80px;
     animation: move 5s infinite, spin 2s infinite;
-    -webkit-animation: move 5s infinite, spin 2s infinite;
 }
 p{
     text-align: center;

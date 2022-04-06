@@ -1,0 +1,100 @@
+.rojo{
+    background-color: red;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    box-shadow: inset 0 0 20px 5px rgb(182, 1, 1);
+}
+.blanco{
+    background-color: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    box-shadow: inset 0 0 20px 5px grey;
+}
+.azul{
+    background-color: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;    
+    box-shadow: inset 0 0 10px 2px black;
+
+}
+.r1{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: inset 0 0 20px 5px rgb(182, 1, 1);
+    
+}
+.sombra{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 17px 15px black;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.b1{
+    width: 350px;
+    height: 350px;
+    margin-left: 22px;
+    margin-top: 22px;
+}
+span{
+    color: blue;
+    font-size: 272px;
+    position: absolute;
+    top: -55px;
+    left: -14px;
+}
+div:hover{
+    animation: spin 2s infinite;
+    -webkit-animation: spin 2s infinite;
+}
+.r2{
+    width: 280px;
+    height: 280px;
+    margin-left: 58px;
+    margin-top: 56px;
+}
+.a1{
+    width: 195px;
+    height: 195px;
+    margin-left: 99px;
+    margin-top: 96px;
+}
+div{
+    position: absolute;
+    left: 470px;
+    top: 150px;
+}
+.b3{
+    width: 150px;
+    height: 150px;
+    margin-left: 120px;
+    margin-top: 110px;
+}
+@keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(720deg);
+      -webkit-transform: rotate(720deg);
+      -moz-transform: rotate(720deg);
+      -ms-transform: rotate(720deg);
+      -o-transform: rotate(720deg);
+}
+  }
