@@ -1,0 +1,50 @@
+.attribution { 
+  font-size: 11px; text-align: center; 
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
+.sedanes{
+  height: 620px;
+  width: 500px;
+  float:left;
+  background-color: orange;
+  border-radius: 2%;
+  -webkit-border-radius: 2%;
+  -moz-border-radius: 2%;
+  -ms-border-radius: 2%;
+  -o-border-radius: 2%;
+}
+.suv{
+  
+  height: 620px;
+  width: 500px;
+  float: right;
+  margin-right: 362px;
+  background-color: blue;
+  border-radius: 2%;
+  -webkit-border-radius: 2%;
+  -moz-border-radius: 2%;
+  -ms-border-radius: 2%;
+  -o-border-radius: 2%;
+}
+.sedan{
+  color: white;
+  margin-left: 40px;
+  text-align: justify;
+}
+.sedan_img{
+  margin-left: 40px;
+  margin-top: 60px;
+}
+.texto_sedan{
+  color: gainsboro;
+}
+@media (max-width: 768px) {
+  body{
+    height: 100vh;;
+    display:grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 2fr 2fr 3fr 3fr 2fr 2fr 2fr;
+  }
+}
