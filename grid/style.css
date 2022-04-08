@@ -1,6 +1,5 @@
 header{
   background-color: black;
-  color: white;
 }
 body{
     display:grid;
@@ -10,15 +9,17 @@ body{
 }
 nav{
   background-color: red;
-  color: white;
 }
 .hero{
   background-color: slateblue;
 }
 p{
   color: white;
-  text-align: center;
 }
 .main{
   background-color: darkslateblue;
+}
+div{
+  text-align: center;
+  justify-content: center;
 }
