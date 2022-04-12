@@ -1,0 +1,19 @@
+$primary: red;
+$secondary: green;
+$success: yellow;
+$info: beige;
+$warning: black;
+$danger: pink;
+$light: white;
+$dark: blue;
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+/*@import "./node_modules/bootstrap/scss/variables.scss;";*/
+
+/*.bg-custom-color{
+    --bs-bg-opacity: 1;
+    background-color: red !important;
+  }
+  */ 
+
+  /*$primary: rebeccapurple;*/
