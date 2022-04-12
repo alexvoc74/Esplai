@@ -1,0 +1,6 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.bg-custom-color{
+    --bs-bg-opacity: 1;
+    background-color: red !important;
+  }
