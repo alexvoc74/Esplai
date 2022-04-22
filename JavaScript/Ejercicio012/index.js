@@ -47,5 +47,49 @@ for(var i = 0; i < piña.length; i++)
 }
 
 //Ejercicio 3
+function splise() {
+  let index = piña.indexOf('🍍');
+  console.log(piña);
+  piña.splice(index,1);
+  console.log(piña);
+}
+splise();
+
+//Ejercicio 4
+
+frutas = ['🍓', '🍋', '🍓', '🍋' , '🍓'];
+
+for(var i = 0; i < frutas.length; i++) {
+  frutas[i] = frutas[i].replace('🍓', '🍄');
+}
+
+console.log(frutas);
+
+//Ejercicio 5
+
+hot = ['🌶️', '🥛', '🌶️', '🥛', '🌶️', '🥛'];
+
+for(var i = 0; i < hot.length; i++){
+
+  if( hot[i] == ['🌶️']) {
+    hot.splice(i+1, 0, '🥵');
+  }
+  
+}
+
+console.log(hot);
+
+//Ejercicio 6
 
 
+cartas = ['🎴','🎴','🎴','🃏','🎴','🎴','🎴'];
+
+for(var i = 0; i < cartas.length; i++){
+
+  if( cartas[i] == ['🎴'] && cartas[i+1] == ['🎴']){
+    cartas.splice(i+1,0, '🃏');
+  }
+  
+}
+
+console.log(cartas);
