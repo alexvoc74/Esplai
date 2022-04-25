@@ -1,12 +1,21 @@
 .AddItem{
     height: 40px;
-    width: 400px;
+    width: 430px;
     padding-left: 25px;
 }
 
 .array{
-    border: 2px solid black;
-    height: 20px;
-    width: 200px;
-    margin: 39px;
+    margin: 27px;
+    text-align: center;
+    padding-bottom: 30px;
+    position: absolute;
+}
+.Numeros{
+    width: 204px;
+}
+.RemoveItem{
+    height: 40px;
+    width: 430px;
+    padding-left: 25px;
+    padding-top: 50px;
 }

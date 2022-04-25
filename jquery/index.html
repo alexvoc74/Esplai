@@ -15,15 +15,31 @@
         
         <div class="botones">
             <button class="push" id="button01" onclick="iniciar()">push</button>
-            <button class="unshift">unshift</button>
-            <button class="insert at">Insert at</button>
+            <button class="unshift" id="button02" onclick="drop()">unshift</button>
+            <button class="insert at" onclick="insertAt()">Insert at</button>
+
+            <input name="Numeros" id="nums" type="number" placeholder="Introduce una posición deseada">
+        
+        </div>
+        </fieldset>
+    </div>
+    <div class="RemoveItem"> 
+        <fieldset>
+            <legend>Remove Item</legend> 
+        
+        <div class="botones">
+            <button class="push" id="button01" onclick="pop()">pop</button>
+            <button class="unshift" id="button02" onclick="shift()">shift</button>
+            <button class="insert at" onclick="removeAt()">remove at</button>
+
+            <input name="Numeros" id="numR" type="number" placeholder="Introduce una posición deseada">
         
         </div>
         </fieldset>
     </div>
 
     <div class="array" id='thingDisplay'>
-
+        
     </div>
 
     <div class="RemoveItem"></div>
